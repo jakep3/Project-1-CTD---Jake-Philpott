@@ -45,7 +45,8 @@ RESULTS
 ![](1.jpg)
 
 Table 1: The number of dives in winter and summer for all of the profilers.
-Oregon Shelf Surface Piercing Profiler Mooring
+
+__Oregon Shelf Surface Piercing Profiler Mooring
 
 
 ![](2.jpg)
@@ -55,7 +56,8 @@ Figure 1: Number of dives in the winter was 2.
 ![](3.jpg)
 
 Figure 2: Number of dives in the summer was 3. 
-Cabled Shallow Profiler Mooring 
+
+__Cabled Shallow Profiler Mooring 
  
 ![](4.jpg)
 
@@ -64,7 +66,8 @@ Figure 3: Number of dives in the winter was 13.
 ![](5.jpg)
 
 Figure 4: Number of dives in the summer was 18. 
-Oregon Offshore Cabled Deep Profiler Mooring 
+
+__Oregon Offshore Cabled Deep Profiler Mooring 
  
 ![](6.jpg)
 
@@ -73,7 +76,8 @@ Figure 5: Number of dives in the winter was 9.
 ![](7.jpg)
 
 Figure 6: Number of dives in the summer was 4. 
-Oregon Slope Base Shallow Profiler 
+
+__Oregon Slope Base Shallow Profiler 
  
 ![](8.jpg)
 
@@ -82,7 +86,8 @@ Figure 7: Number of dives in the winter was 13.
 ![](9.jpg)
 
 Figure 8: Number of dives in the summer was 13.
-Oregon Slope Base Deep Profiler 
+
+__Oregon Slope Base Deep Profiler 
  
 ![](10.jpg)
 
@@ -91,7 +96,8 @@ Figure 9: Number of dives in the winter was 1.
 ![](11.jpg)
 
 Figure 10: Number of dives in the summer was 2.
-Axial Base Shallow Profiler 
+
+__Axial Base Shallow Profiler 
  
 ![](12.jpg)
 
@@ -100,7 +106,8 @@ Figure 11: Number of dives in the winter was 11.
 ![](13.jpg)
 
 Figure 12: Number of dives in the summer was 16.
-Axial Base Deep Profiler 
+
+__Axial Base Deep Profiler 
  
 ![](14.jpg)
 
