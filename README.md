@@ -30,7 +30,8 @@ BACKGROUND
 7.	Cabled Array › Axial Base Deep Profiler 
 
 CTD devices directly measure the conductivity, temperature, and pressure in seawater; however, they direct data can be used to calculate other values, such as depth and speed of sound. Depth is calculated using the equation depth = pressure*1000 / (density * gravitational acceleration) [SI units], and speed of sound is calculated using speed of sound = 1449.2 + 4.6T – 0.055T^2 +0.00029T^3 + (1.34-0.01T)*(S-35)+ 0.016Z [SI units] where T = temperature, S = salinity, and Z = depth. 
- 
+
+
 SOLUTION
 
   The solution to answer the list of questions began by visiting the OOI website and downloading 24 hours of data for the CTD profilers of interest. The data was then put onto GitHub in order to be able to be referenced in Jupyter Notebook. In Jupyter Notebook, all the data was able to be analyzed and used to obtain results. Calculations were performed using the depth and speed of sound equations that were listed in the Background section of this report. Calculating these two properties allowed for the SSP profile to be plotted for each of the CTD profilers. Obtaining these plots was the key to being able to answer all of the questions of interest. The plots allowed trends to be viewed and explained. 
