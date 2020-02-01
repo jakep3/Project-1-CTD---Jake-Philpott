@@ -138,7 +138,7 @@ As can be seen, the maximum value of ssp in each season is at a greater depth du
 
 ![](17.jpg)
 
-Figure 15: The Depth Vs Speed of sound for different latitudes, at a constant longitude. 
+Figure 15: The Depth Vs Speed of sound for different latitudes, at a constant longitude [2]. 
 At equator, warm water at surface. Far from equator, cold water at surface.
 
 CONCLUSIONS
@@ -148,3 +148,4 @@ CONCLUSIONS
 REFERENCES
 
 [1] 	"Ocean Observatories Initiative," [Online]. Available: https://oceanobservatories.org/. [Accessed January 29 2020]
+[2]	"Sound Channel Variability," [Online]. Available: https://dosits.org/science/movement/sofar-channel/sound-channel-variability/.[Accessed January 29 2020]
