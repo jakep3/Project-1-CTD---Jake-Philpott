@@ -11,12 +11,12 @@ Link to Jupyter Notebook on GitHub: https://github.com/jakep3/Project-1-CTD---Ja
 PROBLEM STATEMENT
 
   The following report will answer questions by outlining trends, and presenting data in forms of graphs and written responses, regarding various CTD devices in different locations for 24 hours of data. All of the data was collected from the Ocean Observatories Initiative (OOI) [1]. The following are the questions:
-1.)	“Find out how many dives exist per 24 hours and plot the speed of sound profile (ssp) for each dive. Also, in the same plot, calculate and plot the average ssp. Do this for both winter and summer, for each CTD device.”
-2.)	“Compare the number of dives per day of the shallow profiler vs deep profiler”. 
-3.)	“Where is the maximum value of ssp in each season? Explain why the max ssp should be there”? 
-4.)	Compare the ssp profile in day and night of all profilers, explain what you find (effects of day vs night)”. 
-5.)	“Compare the ssp profile in summer and winter of all profilers, explain what you find (effects of season)”. 
-6.)	“Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effects of location)”. 
+1.	“Find out how many dives exist per 24 hours and plot the speed of sound profile (ssp) for each dive. Also, in the same plot, calculate and plot the average ssp. Do this for both winter and summer, for each CTD device.”
+2.	“Compare the number of dives per day of the shallow profiler vs deep profiler”. 
+3.	“Where is the maximum value of ssp in each season? Explain why the max ssp should be there”? 
+4.	Compare the ssp profile in day and night of all profilers, explain what you find (effects of day vs night)”. 
+5.	“Compare the ssp profile in summer and winter of all profilers, explain what you find (effects of season)”. 
+6.	“Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effects of location)”. 
 
 BACKGROUND
 
