@@ -20,7 +20,7 @@ PROBLEM STATEMENT
 
 BACKGROUND
 
-  A CTD device is used to measure conductivity, temperature, and pressure in the seawater. The Ocean Observatories Initiative has many research devices that can be explored and whose data can be examined on their website. The CTD devices of interest for this report were:
+  A CTD device is used to measure conductivity, temperature, and depth in the seawater. The Ocean Observatories Initiative has many research devices that can be explored and whose data can be examined on their website. The CTD devices of interest for this report were:
 1.	Coastal Endurance › Oregon Shelf Surface Piercing Profiler Mooring 
 2.	Coastal Endurance › Oregon Offshore Cabled Shallow Profiler Mooring 
 3.	Coastal Endurance › Oregon Offshore Cabled Deep Profiler Mooring 
